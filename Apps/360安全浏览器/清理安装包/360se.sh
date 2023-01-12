@@ -1,2 +1,2 @@
 sudo wget https://down.360safe.com/gc/browser360-cn-stable_10.6.1025.3-1_amd64.deb && sudo apt install ./browser360-cn-stable_10.6.1025.3-1_amd64.deb -y
-rm ./browser360-cn-stable_10.6.1025.3-1_amd64.deb
+sudo rm ./browser360-cn-stable_10.6.1025.3-1_amd64.deb
