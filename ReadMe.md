@@ -8,3 +8,6 @@ We only provide services for users in China. If you need them, please find anoth
 QQ群号 <a href="https://jq.qq.com/?_wv=1027&k=RUpuXj72" title="495256085">495256085</a>
 
 ## 如何使用
+首先需要查看您的操作系统版本和发行版类型
+1.打开终端，在终端内输入
+'sudo apt install neofetch'
