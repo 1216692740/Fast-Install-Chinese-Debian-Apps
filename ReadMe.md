@@ -5,6 +5,6 @@ We only provide services for users in China. If you need them, please find anoth
 
 如果你要给该仓库做贡献，你可以加入仓库交流群，或给仓库提交Issues
 
-QQ群号 [495256085] (https://jq.qq.com/?_wv=1027&k=RUpuXj72 "495256085")
+QQ群号 <a href="https://jq.qq.com/?_wv=1027&k=RUpuXj72" title="495256085">495256085</a>
 
 ## 如何使用
