@@ -1,12 +1,4 @@
-#默认禁用官方源，可自行开启。
-
-# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
-#deb http://http.kali.org/kali kali-rolling main contrib non-free
-
-# Additional line for source packages
-# deb-src http://http.kali.org/kali kali-rolling main contrib non-free
-
-#中国apt源
+#国内镜像源
 
 #中科大
 deb http://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
