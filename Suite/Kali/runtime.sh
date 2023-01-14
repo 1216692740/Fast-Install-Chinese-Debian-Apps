@@ -1,6 +1,6 @@
 cd /etc/apt/
 sudo cp ./sources.list ./sources_backup.list
-rm ./sources.list
+sudo rm ./sources.list
 sudo wget https://https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/source/Kali/sources.list
 sudo apt update && sudo apt upgrade -y
 cd
