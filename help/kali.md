@@ -1,9 +1,8 @@
 注意：在安装前需要安装前置包
 
+只需要将下方的指令复制到终端后回车即可
 
-
-
-
+`wget https://ghproxy.com/https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/Suite/Kali/runtime.sh && bash ./runtime.sh`
 
 2.选择你想安装的套件
 
