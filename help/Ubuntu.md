@@ -3,9 +3,11 @@
 只需要将下方的指令复制到终端后回车即可
 
 `Release`后方为22.04
+
 `wget https://ghproxy.com/https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/Suite/Ubuntu/runtime-2204.sh && bash ./runtime-2204.sh`
 
 `Release`后方为20.04
+
 `wget https://ghproxy.com/https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/Suite/Ubuntu/runtime-2004.sh && bash ./runtime-2004.sh`
 
 2.选择你想安装的套件
