@@ -9,3 +9,4 @@ bash ./Spark-Store.sh
 wget https://ghproxy.com/https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/Apps/360%E5%AE%89%E5%85%A8%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%B8%85%E7%90%86%E5%AE%89%E8%A3%85%E5%8C%85/360se.sh
 bash ./360se.sh
 echo 安装完成
+rm ./*.sh

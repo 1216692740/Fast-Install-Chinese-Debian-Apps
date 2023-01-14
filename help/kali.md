@@ -3,3 +3,5 @@
 你只需要把各个套件下方的指令复制到终端后回车即可
 
 基础办公（国产） 包含WPS Office，微信，QQ，星火应用商店，360安全浏览器
+
+`wget https://ghproxy.com/https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/Suite/Kali/chinese-office.sh && `
