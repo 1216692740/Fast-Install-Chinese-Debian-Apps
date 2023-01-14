@@ -14,6 +14,6 @@ QQ群号 <a href="https://jq.qq.com/?_wv=1027&k=RUpuXj72" title="495256085">4952
 `lsb_release -a`
 查看系统版本
 
-若`Distributor ID:`后方显示`Kali`则点击<a href="https://github.com/1216692740/Fast-Install-Chinese-Debain-Apps/help/kali.md" title="Kali套件安装">此处</a>查看教程
+若`Distributor ID:`后方显示`Kali`则点击<a href="https://github.com/1216692740/Fast-Install-Chinese-Debian-Apps/blob/main/help/kali.md" title="Kali套件安装">此处</a>查看教程
 
-若`Distributor ID:`后方显示`Ubuntu`则点击<a href="https://github.com/1216692740/Fast-Install-Chinese-Debain-Apps/help/kali.md" title="Ubuntu套件安装">此处</a>查看教程
+若`Distributor ID:`后方显示`Ubuntu`则点击<a href="https://github.com/1216692740/Fast-Install-Chinese-Debain-Apps/help/Ubunru/` title="Ubuntu套件安装">此处</a>查看教程
