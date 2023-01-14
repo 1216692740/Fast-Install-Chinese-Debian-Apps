@@ -1,2 +1,2 @@
-sudo wget https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11664/wps-office_11.1.0.11664_amd64.deb && sudo apt install ./wps-office_11.1.0.11664_amd64.deb
+sudo wget https://wps-linux-personal.wpscdn.cn/wps/download/ep/Linux2019/11664/wps-office_11.1.0.11664_amd64.deb && sudo apt install ./wps-office_11.1.0.11664_amd64.deb -y
 sudo rm ./wps-office_11.1.0.11664_amd64.deb
