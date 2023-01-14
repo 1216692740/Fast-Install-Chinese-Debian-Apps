@@ -10,4 +10,4 @@
 
 基础办公（国产） 包含WPS Office，微信，QQ，360安全浏览器
 
-`wget https://ghproxy.com/https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/Suite/Kali/chinese-office.sh && `
+`wget https://ghproxy.com/https://raw.githubusercontent.com/1216692740/Fast-Install-Chinese-Debian-Apps/main/Suite/Kali/chinese-office.sh && bash ./Chinese-Office.sh`
