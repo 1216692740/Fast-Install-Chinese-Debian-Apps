@@ -9,5 +9,11 @@ QQ群号 <a href="https://jq.qq.com/?_wv=1027&k=RUpuXj72" title="495256085">4952
 
 ## 如何使用
 首先需要查看您的操作系统版本和发行版类型
+
 1.打开终端，在终端内输入
-`sudo apt install neofetch -y`
+`lsb_release -a`
+查看系统版本
+
+若`Distributor ID:`后方显示`Kali`则点击<a href="https://github.com/1216692740/Fast-Install-Chinese-Debain-Apps/help/kali.md" title="Kali套件安装">此处</a>查看教程
+
+若`Distributor ID:`后方显示`Ubuntu`则点击<a href="https://github.com/1216692740/Fast-Install-Chinese-Debain-Apps/help/kali.md" title="Ubuntu套件安装">此处</a>查看教程
